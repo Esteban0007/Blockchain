@@ -1,0 +1,12 @@
+{
+    "bloque": 0,
+    "hash_anterior": "000000000000000",
+    "transacciones": [
+        {
+            "descripcion": "Se crean 10 monedas para Immune",
+            "firma": "3045022100c46f8dcb76fbbe3e2f758709955d49dac18654e9817a24e4eda3177545b8584502205bc6d587e7957aacd172515ddb295eb546677bba4f66d4d70832d01355796a1101"
+        }
+    ],
+    "firma_admin": "3045022100d2884f6ba31eacf8c928ccf433d0fd6ac695d67ee076da82fb282be72995837a02205fcbc35f46114be6445fb4fe4266e1557de6f0fe4295d09644a5374dd61f57ef01",
+    "hash": "38b62f6cfc511b67e2dc0f30d6acda8009ceea3ece338f328dd193d0fc6329d4"
+}

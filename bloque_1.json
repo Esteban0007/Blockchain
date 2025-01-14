@@ -1,0 +1,16 @@
+{
+    "bloque": 1,
+    "hash_anterior": "ee839fa2dba79597a09bdaa9d3cf8a90b7d28c4de296c6a8ae7a0d192aa312b2",
+    "transacciones": [
+        {
+            "descripcion": "Immune le da 5 monedas a Hernan",
+            "firma": "30450221008f6b4ff3c9b2beee6ad34ed3eab9c08a5a27c51e445fb088ae434a36f5504c1402205f4fb08b06cbb04b846fe165a4f2be62ae900fd2d14408c007f8ac21b939af5201"
+        },
+        {
+            "descripcion": "Immune le da 5 monedas a Esteban",
+            "firma": "3045022100c2b7b8e624c4b5a37ede86230cd1c48174a24fa93c08df60035333f743f23f79022016abd9ff34f15c079a70ba9b2a7ba13b7abb118d1b6a2b7258be5e85e91b6f1001"
+        }
+    ],
+    "firma_admin": "3045022100ceb0bb395f4e75bd6c37d8005902e623fa42a73813aa65994517177eb284dfe402201a43d489c34062cb2cc6331e882bf0da37bbfa15477f743af045e59ad645684b01",
+    "hash": "e2189b07a69d2c63b6e5aaf12ef6db1383fe7c42fb856057692dd8ab77849918"
+}

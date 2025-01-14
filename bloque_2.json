@@ -1,0 +1,12 @@
+{
+    "bloque": 2,
+    "hash_anterior": "e2189b07a69d2c63b6e5aaf12ef6db1383fe7c42fb856057692dd8ab77849918",
+    "transacciones": [
+        {
+            "descripcion": "Esteban le da 5 monedas a Hernan",
+            "firma": "3045022100ba4b672b0758dd69de412a9304cdbdc06fa9ced139fa7a09b19e1d8b8072c63902207cf8247786fd87cca25b13466dc090ba36fc5db0626a4822e3c30582d9a017b001"
+        }
+    ],
+    "firma_admin": "3045022100c553aa425ba3d84410bcb92f5e648a082fe201e64be5e2c65716165ce9f420de02203a2e2b62ba69bfb4f835d98bdc3d157fab59417c74f0875bd454efd1d37350d701",
+    "hash": "3af8438267eaf41ba9503db046ac211b05753a668b4ca0d970a5b74e7efe1cf6"
+}
